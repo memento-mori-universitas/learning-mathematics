@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-mathematics-
+
+about:
+  title: Learning Mathematics 
+  description:  The study of such topics as quantity, structure, space, and change
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
