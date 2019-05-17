@@ -10,6 +10,7 @@ Goal: Understanding, not doing
 Book: https://www.amazon.ca/Introduction-Mathematical-Thinking-Keith-Devlin/dp/0615653634
 
 #### Lecture 1
+
 What is mathematics? The Science of Patterns
 
 Banach-Tarski Paradox: Take a sphere and cut it up in such a way that you reassemble it to form two identical spheres, each the same size the origin size
@@ -127,6 +128,8 @@ In this case, changing the order does have change the meaning or value.
 
 **Propositional Truth Table**
 
+<img width="263" alt="Screen Shot 2019-05-16 at 10 01 46 PM" src="https://user-images.githubusercontent.com/1566236/57898324-8f503700-7826-11e9-8a35-44897aa92a1c.png">
+
 
 Or operator
 
@@ -140,8 +143,9 @@ In mathematics “or” means inclusive or.
 The or symbol is a “v” and is called a disjuction
 
 
-Not operator
+**Not operator**
 
+<img width="615" alt="image" src="https://user-images.githubusercontent.com/1566236/57898333-9c6d2600-7826-11e9-9567-cfab4f523f4f.png">
 
 
 
