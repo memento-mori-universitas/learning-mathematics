@@ -1,6 +1,6 @@
 # Learning Mathematics  Project
       
-### Mathematical Thinking
+### [Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
 
 #### Lecture 0
 
